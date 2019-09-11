@@ -1,12 +1,13 @@
 body{background-color:bisque}
 h1{color:black}
 h1{width: auto}
-form{color:black}
-form{width: auto}
+form{color:black;width: auto}
 input{width: 300px}
 
 form{border-radius: 5px}
 input{border-radius: 5px}
 textarea{border-color: red;grid-auto-rows: 30px;width: 300px}
+:hover
+{border-color: green}
 :focus
 {border-color: green}
