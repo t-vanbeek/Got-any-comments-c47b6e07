@@ -7,8 +7,6 @@ input{width: 300px}
 
 form{border-radius: 5px}
 input{border-radius: 5px}
-textarea{border-color: red}
-textarea{grid-auto-rows: 30px}
-textarea{width: 300px}
+textarea{border-color: red;grid-auto-rows: 30px;width: 300px}
 :focus
 {border-color: green}
